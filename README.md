@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @abdulraheemf
-- 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... Java and C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... a lot of things, sometimes trivia
+- 🌱 I’m currently learning ... Java App Programming and Swift
+
 
 <!---
 abdulraheemf/abdulraheemf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
